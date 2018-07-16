@@ -1,0 +1,2 @@
+# STDUENTMANAGEWR
+这是一个学生登陆网页
